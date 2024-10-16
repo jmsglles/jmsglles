@@ -14,9 +14,8 @@ I'm a passionate Full Stack Developer with a focus on creating efficient, scalab
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,discord,gitlab,ps /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,discord,gitlab,ps" /><br>
 </div>
-<br/>
 <hr/>
 ### 📈 Current Focus
 I'm currently focusing on improving my skills in **React.js** and learning more about **Inertia.js** to better connect the back-end and front-end. I'm also deepening my knowledge of **design systems** and UI/UX principles to make user experiences even better!
