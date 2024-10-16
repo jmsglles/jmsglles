@@ -1,6 +1,9 @@
 ![Typewriter](https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=10&color=238df1&width=600&lines=Hi!+There!;+I'm+James+Malcolm+Gulles!)
 ### 🚀 About Me
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I+am+a+Web+Developer;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</h1>
 
 Hi, I'm a web developer with a passion for crafting clean, responsive, and user-friendly websites. I specialize in both front-end and back-end development, primarily working with technologies like **HTML**, **CSS**, **JavaScript**, **Laravel**, **React**, and **Inertia.js** to build full-stack web applications.
 
