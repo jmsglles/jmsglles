@@ -1,5 +1,4 @@
-
-![Typewriter](https://readme-typing-svg.herokuapp.com?font=Arial&size=40&pause=100&color=238df1&width=600&lines=Hi!+There!;+I'm+James+Malcolm+Gulles!)
+![Typewriter](https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=100&color=238df1&width=600&lines=Hi!+There!;+I'm+James+Malcolm+Gulles!)
 ### 🚀 About Me
 I'm a passionate Full Stack Developer with a focus on creating efficient, scalable, and user-friendly web applications. My expertise lies in using modern web technologies and frameworks to build robust applications.
 
