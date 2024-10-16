@@ -10,11 +10,11 @@ I'm a passionate Full Stack Developer with a focus on creating efficient, scalab
 - ⚙️ Familiar with building and maintaining full-stack applications using **Inertia.js**, ensuring seamless transitions between front-end and back-end.
 <hr/>
 ### 🛠️ My Tech Stack
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,c++,java,mysql" /><br>
 </div>
 <hr/>
 ### 📈 Current Focus
