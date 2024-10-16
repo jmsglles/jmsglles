@@ -13,14 +13,11 @@ I'm a passionate Full Stack Developer with a focus on creating efficient, scalab
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,discord,gitlab,ps" /><br>
 </div>
 <hr/>
 ### 📈 Current Focus
 I'm currently focusing on improving my skills in **React.js** and learning more about **Inertia.js** to better connect the back-end and front-end. I'm also deepening my knowledge of **design systems** and UI/UX principles to make user experiences even better!
 <hr/>
-### 📫 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](your-portfolio-url)
+
