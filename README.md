@@ -1,6 +1,6 @@
 ![Typewriter](https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=10&color=238df1&width=600&lines=Hi!+There!;+I'm+James+Malcolm+Gulles!)
 ### 🚀 About Me
- About Me 🌐
+
 
 Hi, I'm a web developer with a passion for crafting clean, responsive, and user-friendly websites. I specialize in both front-end and back-end development, primarily working with technologies like **HTML**, **CSS**, **JavaScript**, **Laravel**, **React**, and **Inertia.js** to build full-stack web applications.
 
