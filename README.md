@@ -15,8 +15,12 @@ Take a look at my projects, and let's build something great together!
 <h1 align="center"> Languages-Frameworks-Tools </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,discord,gitlab,ps" />
+<h1>Frameworks</h1>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/><br/>
+  <h1>Languages</h1>
+   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,python,javascript,c,cpp" /><br/>
+   <h1>Tools</h1>
+    <img src="https://skillicons.dev/icons?i=mysql,discord,gitlab,ps,vscode,github,figma" />
 </div>
 <hr/>
     
