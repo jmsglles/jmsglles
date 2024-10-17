@@ -12,7 +12,7 @@ With a keen eye for design and a focus on performance, I enjoy turning complex p
 Take a look at my projects, and let's build something great together!
 <hr/>
 <h2>My Tech Stack<h2/>
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h1 align="center"> Languages-Frameworks-Tools </h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br/>
