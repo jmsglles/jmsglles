@@ -11,14 +11,14 @@ With a keen eye for design and a focus on performance, I enjoy turning complex p
 
 Take a look at my projects, and let's build something great together!
 <hr/>
-<h4>My Tech Stack<h4/>
+<h1>My Tech Stack<h1/>
 <br/>
 <div align="center">
-<h1>Frameworks</h1>
+<h3>Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/><br/>
-  <h1>Languages</h1>
+  <h3>Languages</h3>
    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,python,javascript,c,cpp" /><br/>
-   <h1>Tools</h1>
+   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=mysql,discord,gitlab,ps,vscode,github,figma" />
 </div>
 <hr/>
