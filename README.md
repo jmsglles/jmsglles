@@ -7,9 +7,9 @@
 
 Hi, I'm a web developer with a passion for crafting clean, responsive, and user-friendly websites. I specialize in both front-end and back-end development, primarily working with technologies like **HTML**, **CSS**, **JavaScript**, **Laravel**, **React**, and **Inertia.js** to build full-stack web applications.
 
-With a keen eye for design and a focus on performance, I enjoy turning complex problems into simple, elegant solutions. I’m always excited to learn new technologies and improve my skills, and I'm dedicated to delivering high-quality code that meets the needs of users and clients alike.
+I’m always excited to learn new technologies and improve my skills, and I'm dedicated to delivering high-quality code that meets the needs of users and clients alike.
 
-Take a look at my projects, and let's build something great together!
+Let's build something great together!
 <hr/>
 <h1>My Tech Stack<h1/>
 <br/>
