@@ -4,7 +4,11 @@
 <h1>About Me</h1> 
 
 
+Hi, I'm a web developer passionate about creating clean, responsive, and user-friendly websites. I specialize in full-stack development with technologies like HTML, CSS, JavaScript, Laravel, React, and Inertia.js.
 
+Always eager to learn and grow, I strive to deliver high-quality code that meets both user and client needs.
+
+Let's build something amazing together!
 Hi, I'm a web developer with a passion for crafting clean, responsive, and user-friendly websites. I specialize in both front-end and back-end development, primarily working with technologies like **HTML**, **CSS**, **JavaScript**, **Laravel**, **React**, and **Inertia.js** to build full-stack web applications.
 
 I’m always excited to learn new technologies and improve my skills, and I'm dedicated to delivering high-quality code that meets the needs of users and clients alike.
